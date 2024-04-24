@@ -1,0 +1,7 @@
+command to run
+sudo apt-get install jdk
+javac *.java
+rmiregistry
+
+java server
+java client

@@ -1,0 +1,48 @@
+Assignment 1:
+1st terminal:
+javac *.java
+rmiregistry
+2nd terminal:
+java server
+3rd terminal:
+java client
+
+Assignment 3:
+1st terminal:
+sudo apt update
+sudo apt install openmpi-bin
+sudo apt install libopenmpi-dev
+mpirun --version
+2nd terminal:
+mpicc MPI.c
+mpirun -np 4 ./a.out
+
+
+Assignment 4:
+1st terminal:
+python3 server.py
+2nd terminal:
+Python3 client.py
+
+Assignment 5
+Javac tokenring.java
+Java tokenring
+
+Assignment 6A
+javac Bully.java
+java Bully
+
+Assignment 6B
+javac Ring.java
+java Ring
+
+Assignment 7
+sudo apt install python3-pip
+pip install flask
+python3 app.py
+
+or
+
+Sudo apt install python3-pip
+Sudo apt install -U flask
+Python3 app.py
